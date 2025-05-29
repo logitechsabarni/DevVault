@@ -1,0 +1,3 @@
+cd DevVault/frontend
+npm install
+npm start
